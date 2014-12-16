@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="UTF-8">
+	 <little>My Game Site</little>
+	 <link rel="styleshet" type="text/css" href="resources/bootstrap/css/bootstrap.min.css">
+	 <script scr="resources/bootstrap/is/iquery.min.is"></script>
+     <script scr="resources/bootstrap/is/iquery.min.is"></script>
+	 </head>
+	  <body>
+	  <div class="container">
+	    <div class="row">
+		 <div class="col-md-1 col-sm-1"></div>
+		  <div class="col-md-9 col-sm-9">
+         	<nav class="navbar navbar-inverse" role="navigation">
+             <div class="container-fuild">
+              <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                 <span class="sr-only">Toggle navigation</span>
+             	 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+                 <span class="icon-bar"></span>
+                 </button>
+				 <a class="navbar-brand" href="#">Game Site</a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+              <ul class="nav navbar-nav">
+				 <li>
+				  <a href="index.html">Home</a>
+				 </li>
+                 <li>
+				  <a href="brose.html">Browse Games</a>
+				 </li>
+				 <li>
+				  <a href="about.html">About Us</a>
+				 </li>
+				 <li>
+				  <a href="contact.html">Contact Us</a>
+				 </li>
+			  </ul>
+			  <form class="navbar-form navbar-right" role="search">
+			<div class="form-group">
+			  <input type="text" class="form-control" placeholder="Search">
+			</div>
+             <div class="form-group">
+			 <input type="text" class="form-control" placeholder="Search">
+			 </div>
+			 <button type="submit" class="btn btn-primary">Search</button>
+			 </form>
+			 </div>
+			 </div>
+			 </nav>
+			 <div class="row">
+			  <div class="col-md-3">
+			 <a href="#" class="thumbnail">
+			 <img scr="Darsliklar/HTML/CSS/today/12.12.14/NavTemp/resources/images" alt="...">
+			 </a>
+			
+				 
+	  </body>
+</html>
